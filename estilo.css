@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    color: rgb(0, 4, 255);
+}
+p {
+    color: blueviolet;
+}
+div {
+    color: brown;
+}
+.divuno {
+    color: yellow;
+}
+.padre {
+    background-color: rgb(246, 255, 0);
+    height: 300px;
+    width: 300px;
+    padding: 100px;
+}
+.hijo{
+    height: 200px;
+    width: 150px;
+    background: blue;
+    margin: 80px;
+}
